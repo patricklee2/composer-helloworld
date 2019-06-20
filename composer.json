@@ -1,0 +1,5 @@
+{
+    "name": "root/composer-helloworld",
+    "type": "project",
+    "require": {}
+}
